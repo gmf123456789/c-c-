@@ -5,7 +5,7 @@ struct computer
 	int op1, op2;
 	char ch;
 };
-void fun(computer* pb,int n)			
+void fun（computer* pb，int n）					
 {
 	int i;
 	for (i = 0; i < n; i++)
